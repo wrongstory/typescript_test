@@ -11,3 +11,5 @@
 import { printName } from "./util";
 
 printName("typescript");
+
+// let count: number = null; // ❌ 오류 발생
